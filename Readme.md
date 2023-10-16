@@ -45,10 +45,12 @@ npx wc23-cli "new zealand"
 [![📟](https://raw.githubusercontent.com/MoazIrfan/wc-cli/main/.github/cli.gif)](./../../)
 
 
+<br>
 
+[![📃](https://raw.githubusercontent.com/MoazIrfan/wc-cli/main/.github/license.png)](./../../)
 ## License
 
-- MIT © [Moaz Irfan](https://twitter.com/MoazIrfan/)
+MIT © [Moaz Irfan](https://twitter.com/MoazIrfan/)
 
 <br>
 
