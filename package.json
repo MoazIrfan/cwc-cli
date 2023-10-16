@@ -1,0 +1,42 @@
+{
+	"name": "wc-cli",
+	"description": "Check cricket worldcup 2023 matches in your terminal",
+	"version": "0.0.1",
+	"license": "MIT",
+	"bin": {
+		"wc-cli": "index.js"
+	},
+	"author": {
+		"name": "Moaz Irfan",
+		"email": "irfanmoaz@gmail.com",
+		"url": "https://moazirfan.com"
+	},
+	"keywords": [
+		"wc-cli",
+		"worldcup-cli",
+		"worldcup23-cli",
+		"worldcup2023-cli",
+		"cricket-worldcup-cli",
+		"cricket-worldcup-2023-cli",
+		"Moaz Irfan"
+	],
+	"files": [
+		"index.js",
+		"utils"
+	],
+	"scripts": {
+		"format": "prettier --write \"./**/*.{js,json}\""
+	},
+	"dependencies": {
+		"chalk": "^4.1.2",
+		"cli-alerts": "^1.2.2",
+		"cli-handle-error": "^4.4.0",
+		"cli-handle-unhandled": "^1.1.1",
+		"cli-meow-help": "^3.1.0",
+		"cli-welcome": "^2.2.2",
+		"meow": "^9.0.0"
+	},
+	"devDependencies": {
+		"prettier": "^3.0.3"
+	}
+}
