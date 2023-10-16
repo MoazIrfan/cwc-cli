@@ -1,4 +1,4 @@
-[![wc-cli](https://github.com/moazirfan/wc-cli/raw/master/.github/github.jpeg)](https://twitter.com/MoazIrfan/)
+[![wc-cli](https://github.com/MoazIrfan/wc-cli/tree/main/.github/github.jpeg)](https://twitter.com/MoazIrfan/)
 
 # wc-cli 
 
@@ -13,7 +13,7 @@
 
 <br>
 
-[![📟](https://github.com/moazirfan/wc-cli/raw/master/.github/install.png)](./../../)
+[![📟](https://github.com/MoazIrfan/wc-cli/tree/main/.github/install.png)](./../../)
 
 ## Install
 
@@ -23,7 +23,7 @@ npx wc-cli
 
 <br>
 
-[![⚙️](https://github.com/moazirfan/wc-cli/raw/master/.github/usage.png)](./../../)
+[![⚙️](https://github.com/MoazIrfan/wc-cli/tree/main/.github/usage.png)](./../../)
 
 ## Usage
 
@@ -46,14 +46,13 @@ npx wc-cli "new zealand"
 
 
 
-## License & Conduct
+## License
 
 - MIT © [Moaz Irfan](https://twitter.com/MoazIrfan/)
-- [Code of Conduct](code-of-conduct.md)
 
 <br>
 
-[![🙌](https://github.com/moazirfan/wc-cli/raw/master/.github/connect.png)](./../../)
+[![🙌](https://github.com/MoazIrfan/wc-cli/tree/main/.github/connect.png)](./../../)
 
 ## Connect
 
