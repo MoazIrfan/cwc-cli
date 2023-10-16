@@ -1,4 +1,4 @@
-[![wc-cli](https://github.com/MoazIrfan/wc-cli/tree/main/.github/github.jpeg)](https://twitter.com/MoazIrfan/)
+[![wc-cli](https://github.com/moazirfan/wc-cli/raw/main/.github/github.jpeg)](https://twitter.com/MoazIrfan/)
 
 # wc-cli 
 
@@ -13,7 +13,7 @@
 
 <br>
 
-[![📟](https://github.com/MoazIrfan/wc-cli/tree/main/.github/install.png)](./../../)
+[![📟](https://github.com/MoazIrfan/wc-cli/raw/main/.github/install.png)](./../../)
 
 ## Install
 
@@ -23,7 +23,7 @@ npx wc-cli
 
 <br>
 
-[![⚙️](https://github.com/MoazIrfan/wc-cli/tree/main/.github/usage.png)](./../../)
+[![⚙️](https://github.com/MoazIrfan/wc-cli/raw/main/.github/usage.png)](./../../)
 
 ## Usage
 
@@ -52,7 +52,7 @@ npx wc-cli "new zealand"
 
 <br>
 
-[![🙌](https://github.com/MoazIrfan/wc-cli/tree/main/.github/connect.png)](./../../)
+[![🙌](https://github.com/MoazIrfan/wc-cli/raw/main/.github/connect.png)](./../../)
 
 ## Connect
 
