@@ -5,7 +5,7 @@ const unhandled = require('cli-handle-unhandled');
 module.exports = ({ clear = true }) => {
 	unhandled();
 	welcome({
-		title: `my-cli`,
+		title: `wc23-cli`,
 		tagLine: `by Moaz Irfan`,
 		description: pkg.description,
 		version: pkg.version,
