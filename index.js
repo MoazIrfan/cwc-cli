@@ -5,6 +5,7 @@ const Table = require('cli-table3');
 const init = require('./utils/init');
 const cli = require('./utils/cli');
 const log = require('./utils/log');
+const chalk = require('chalk');
 
 const input = cli.input;
 const flags = cli.flags;
@@ -13,7 +14,7 @@ const { clear, debug } = flags;
 
 const displayMatches = (matches) => {
 	const table = new Table({
-		head: ['Match Number', 'Date', 'Location', 'Home Team', 'Away Team'],
+		head: [chalk.green('Match Number'), chalk.green('Date'), chalk.green('Location'), chalk.green('Home Team'), chalk.green('Away Team')],
 	});
 
 	matches.forEach(match => {
@@ -21,6 +22,14 @@ const displayMatches = (matches) => {
 	});
 
 	console.log(table.toString());
+
+	console.log();
+	
+	console.log(chalk.green('✔'), chalk.dim('Star the repo for updates → https://github.com/MoazIrfan/wc-cli'));
+
+	console.log(chalk.blue('ℹ'), chalk.dim('Follow for more CLIs → https://twitter.com/MoazIrfan'));
+
+	console.log();
 };
 
 const matches = async () => {

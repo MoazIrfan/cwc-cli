@@ -7,7 +7,7 @@
 
 <br>
 
-- ☀️ Get today matches schedule.
+- ☀️ Get today's match schedule.
 - 🗓 Get all World Cup matches schedule.
 - 🌐 Get schedule for country matches.
 
@@ -31,7 +31,7 @@ npx wc-cli
 # Show all World Cup matches schedule.
 npx wc-cli
 
-# Show today matches schedule.
+# Show today's match schedule.
 npx wc-cli today
 
 # Show schedule for country matches.
