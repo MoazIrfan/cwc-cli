@@ -1,6 +1,6 @@
 {
 	"name": "wc-cli",
-	"description": "Check cricket worldcup 2023 matches in your terminal",
+	"description": "Check cricket worldcup 2023 matches schedule in your terminal",
 	"version": "0.0.1",
 	"license": "MIT",
 	"bin": {
