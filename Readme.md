@@ -1,6 +1,6 @@
-[![wc-cli](https://github.com/moazirfan/wc-cli/raw/main/.github/github.jpeg)](https://twitter.com/MoazIrfan/)
+[![wc23-cli](https://github.com/moazirfan/wc-cli/raw/main/.github/github.jpeg)](https://twitter.com/MoazIrfan/)
 
-# wc-cli 
+# wc23-cli 
 
 
 > CLI tool to check the Cricket World Cup 2023 matches schedule in your terminal.
@@ -18,7 +18,7 @@
 ## Install
 
 ```sh
-npx wc-cli
+npx wc23-cli
 ```
 
 <br>
@@ -29,17 +29,17 @@ npx wc-cli
 
 ```sh
 # Show all World Cup matches schedule.
-npx wc-cli
+npx wc23-cli
 
 # Show today's match schedule.
-npx wc-cli today
+npx wc23-cli today
 
 # Show schedule for country matches.
-npx wc-cli pakistan
+npx wc23-cli pakistan
 
 # For multiword countries.
-npx wc-cli "New Zealand"
-npx wc-cli "new zealand"
+npx wc23-cli "New Zealand"
+npx wc23-cli "new zealand"
 ```
 
 [![📟](./.github/show.gif)](./../../)
