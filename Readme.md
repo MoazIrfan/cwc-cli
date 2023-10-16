@@ -42,7 +42,7 @@ npx wc23-cli "New Zealand"
 npx wc23-cli "new zealand"
 ```
 
-[![📟](https://github.com/MoazIrfan/wc-cli/raw/main/github/cli.gif)](./../../)
+[![📟](https://raw.githubusercontent.com/MoazIrfan/wc-cli/main/.github/cli.gif)](./../../)
 
 
 
