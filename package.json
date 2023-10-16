@@ -1,7 +1,7 @@
 {
 	"name": "wc23-cli",
 	"description": "Check cricket worldcup 2023 matches schedule in your terminal",
-	"version": "2.0.0",
+	"version": "3.0.2",
 	"license": "MIT",
 	"bin": {
 		"wc23-cli": "index.js"

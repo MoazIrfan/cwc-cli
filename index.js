@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-
-const fs = require('fs');
 const Table = require('cli-table3');
 const init = require('./utils/init');
 const cli = require('./utils/cli');
