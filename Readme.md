@@ -2,7 +2,7 @@
 
 [![DOWNLOADS](https://img.shields.io/npm/dt/wc23-cli?label=DOWNLOADS%20%20%E2%9D%AF&colorA=310173&colorB=fd02a5&style=flat)](https://www.npmjs.com/package/wc23-cli)
 
-# wc23-cli 
+# CWC23 
 
 
 > CLI tool to check the Cricket World Cup 2023 matches schedule in your terminal.
