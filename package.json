@@ -1,11 +1,12 @@
 {
-	"name": "wc23-cli",
+	"name": "cwc23-cli",
 	"description": "Check cricket worldcup 2023 matches schedule in your terminal",
-	"version": "3.3.1",
+	"version": "3.3.3",
 	"license": "MIT",
-	"repository": "moazirfan/wc-cli",
+	"repository": "moazirfan/cwc-cli",
 	"bin": {
-		"wc23-cli": "index.js"
+		"wc23-cli": "index.js",
+		"cwc23-cli": "index.js"
 	},
 	"author": {
 		"name": "Moaz Irfan",
@@ -13,6 +14,8 @@
 		"url": "https://moazirfan.com"
 	},
 	"keywords": [
+		"cwc23",
+		"CWC23",
 		"wc-cli",
 		"worldcup-cli",
 		"worldcup23-cli",
