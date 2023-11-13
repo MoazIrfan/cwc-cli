@@ -375,16 +375,16 @@ const matchesData = [
     "RoundNumber": 6,
     "DateUtc": "2023-11-15 08:30:00Z",
     "Location": "Wankhede Stadium",
-    "HomeTeam": "To be announced",
-    "AwayTeam": "To be announced"
+    "HomeTeam": "India",
+    "AwayTeam": "New Zealand"
   },
   {
     "MatchNumber": 47,
     "RoundNumber": 6,
     "DateUtc": "2023-11-16 08:30:00Z",
     "Location": "Eden Gardens",
-    "HomeTeam": "To be announced",
-    "AwayTeam": "To be announced"
+    "HomeTeam": "South Africa",
+    "AwayTeam": "Australia"
   },
   {
     "MatchNumber": 48,
