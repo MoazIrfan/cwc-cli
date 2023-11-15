@@ -391,7 +391,7 @@ const matchesData = [
     "RoundNumber": 7,
     "DateUtc": "2023-11-19 08:30:00Z",
     "Location": "Narendra Modi Stadium",
-    "HomeTeam": "To be announced",
+    "HomeTeam": "India",
     "AwayTeam": "To be announced"
   }
 ]
