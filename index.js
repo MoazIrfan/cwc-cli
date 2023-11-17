@@ -392,7 +392,7 @@ const matchesData = [
     "DateUtc": "2023-11-19 08:30:00Z",
     "Location": "Narendra Modi Stadium",
     "HomeTeam": "India",
-    "AwayTeam": "To be announced"
+    "AwayTeam": "Australia"
   }
 ]
 
